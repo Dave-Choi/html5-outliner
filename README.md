@@ -18,4 +18,4 @@ Specifically, the description of the algorithm uses the concept of a **section**
 
 The goal of the algorithm then would simply be to establish a **section** representing the root node, with the appropriate set of subsections.  The outline could then be the output of a **section** method, which would only have to do a simple tree traversal.
 
-Furthermore, the implicitly defined sections could be made specific by wrapping the nodes in the section in a sectioning element (e.g. `<section>`).
+Furthermore, the implicitly defined sections could be made explicit by wrapping the nodes in the section in a sectioning element (e.g. `<section>`).
